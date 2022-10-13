@@ -3,6 +3,7 @@ Console.WriteLine("-  - --> Welcome to CSVReader version 0.0.1 <-- -  -");
 
 string filename = "/home/user/Projects/CSVReader/employees.csv";
 
+
 using (StreamReader reader = new StreamReader(filename))
 {
     string? line;
