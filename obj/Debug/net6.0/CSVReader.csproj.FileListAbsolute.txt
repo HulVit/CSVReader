@@ -1,0 +1,15 @@
+/home/user/Projects/CSVReader/bin/Debug/net6.0/CSVReader
+/home/user/Projects/CSVReader/bin/Debug/net6.0/CSVReader.deps.json
+/home/user/Projects/CSVReader/bin/Debug/net6.0/CSVReader.runtimeconfig.json
+/home/user/Projects/CSVReader/bin/Debug/net6.0/CSVReader.dll
+/home/user/Projects/CSVReader/bin/Debug/net6.0/ref/CSVReader.dll
+/home/user/Projects/CSVReader/bin/Debug/net6.0/CSVReader.pdb
+/home/user/Projects/CSVReader/obj/Debug/net6.0/CSVReader.csproj.AssemblyReference.cache
+/home/user/Projects/CSVReader/obj/Debug/net6.0/CSVReader.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Projects/CSVReader/obj/Debug/net6.0/CSVReader.AssemblyInfoInputs.cache
+/home/user/Projects/CSVReader/obj/Debug/net6.0/CSVReader.AssemblyInfo.cs
+/home/user/Projects/CSVReader/obj/Debug/net6.0/CSVReader.csproj.CoreCompileInputs.cache
+/home/user/Projects/CSVReader/obj/Debug/net6.0/CSVReader.dll
+/home/user/Projects/CSVReader/obj/Debug/net6.0/ref/CSVReader.dll
+/home/user/Projects/CSVReader/obj/Debug/net6.0/CSVReader.pdb
+/home/user/Projects/CSVReader/obj/Debug/net6.0/CSVReader.genruntimeconfig.cache
